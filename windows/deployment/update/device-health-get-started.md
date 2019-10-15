@@ -9,8 +9,9 @@ ms.date: 10/29/2018
 ms.reviewer: 
 manager: laurawi
 ms.pagetype: deploy
-audience: itproauthor: greg-lindsay
-ms.author: greglin
+audience: itpro
+author: jaimeo
+ms.author: jaimeo
 ms.localizationpriority: medium
 ms.collection: M365-analytics
 ms.topic: article

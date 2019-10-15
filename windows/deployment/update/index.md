@@ -4,7 +4,7 @@ description: Windows as a service provides an all-new way to think about buildin
 ms.prod: w10
 ms.mktglfcycl: manage
 ms.sitesec: library
-author: Jaimeo
+author: jaimeo
 manager: laurawi
 ms.localizationpriority: high
 ms.author: jaimeo

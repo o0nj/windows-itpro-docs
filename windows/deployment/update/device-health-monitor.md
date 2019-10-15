@@ -9,8 +9,9 @@ ms.mktglfcycl: deploy
 ms.sitesec: library
 ms.localizationpriority: medium
 ms.pagetype: deploy
-audience: itproauthor: greg-lindsay
-ms.author: greglin
+audience: itpro
+author: jaimeo
+ms.author: jaimeo
 ms.collection: M365-analytics
 ms.topic: article
 ---
