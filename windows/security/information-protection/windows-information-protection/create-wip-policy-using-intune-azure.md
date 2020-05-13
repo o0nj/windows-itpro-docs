@@ -214,7 +214,7 @@ Path                   Publisher
 
 Where `O=MICROSOFT CORPORATION, L=REDMOND, S=WASHINGTON, C=US` is the **Publisher** name and `WORDPAD.EXE` is the **File** name.
 
-Regarding to how to get the Product Name for the Apps you wish to Add, please reach out to our Windows Support Team to request the guidelines
+Regarding how to get the Product Name for the Apps you wish to Add, please reach out to our Windows Support Team to request the guidelines
 
 ### Import a list of apps 
 
