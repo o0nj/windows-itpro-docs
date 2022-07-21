@@ -1,0 +1,26 @@
+title:	Windows Defender Remote Credential Guard is also available in windows 2019.
+state:	CLOSED
+author:	mattsu2020
+labels:	question, identity protection
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10190
+--
+
+This page only Applies to Windows 2016 or Windows 10, but it can also be used in Windows 2019.
+
+---
+#### ドキュメントの詳細
+
+
+⚠ *このセクションを編集しないでください。 docs.microsoft.com で必須です ➟ GitHub の問題のリンク。*
+
+* ID: c826587d-2e65-083f-254d-75f188158f08
+* Version Independent ID: 746596b5-c1df-9ea0-abcc-f6ff97874e40
+* Content: [リモート Credential Guard を使用してリモート デスクトップWindows Defenderを保護する (Windows 10) - Windows security](https://docs.microsoft.com/ja-jp/windows/security/identity-protection/remote-credential-guard)
+* Content Source: [windows/security/identity-protection/remote-credential-guard.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/master/windows/security/identity-protection/remote-credential-guard.md)
+* Product: **m365-security**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

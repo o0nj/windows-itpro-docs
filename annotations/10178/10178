@@ -1,0 +1,25 @@
+title:	MS Defender Application Guard 
+state:	CLOSED
+author:	AllanLundy
+labels:	application guard, product-question, doc-enhancement
+comments:	2
+assignees:	e0i, MaratMussabekov
+projects:	
+milestone:	
+number:	10178
+--
+
+The page describing MS Defender Guard Application for Firefox and Chrome is contradictory.  At the top it says that it applies to Windows 10.  But under prereqs, it says it applies to Windows 10 Professional.  Like the great majority of users, I have Windows 10 Home.  It is not clear if it applies to this.  Thanks for any comments.
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: e41c70e9-2889-a930-9f1b-1dfbffe0830f
+* Version Independent ID: ae228f28-6128-b670-7aeb-2e8384237dc5
+* Content: [Microsoft Defender Application Guard Extension - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-browser-extension#feedback)
+* Content Source: [windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-browser-extension.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-browser-extension.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @martyav
+* Microsoft Alias: **v-maave**

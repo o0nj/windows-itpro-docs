@@ -1,0 +1,27 @@
+title:	Update telemetry designations
+state:	CLOSED
+author:	cinglis-msft
+labels:	question, Microsoft submitter
+comments:	5
+assignees:	e0i, Dansimp
+projects:	
+milestone:	
+number:	6407
+--
+Will this article be updated to reflect the new telemetry level designations described in the Help article [Diagnostics Feedback and Privacy in Windows 10](https://support.microsoft.com/help/4468236/diagnostics-feedback-and-privacy-in-windows-10-microsoft-privacy)?
+
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 893c364e-fcf4-8667-17d7-f9a3ec71e1a9
+* Version Independent ID: f98f8870-d594-f5df-f6b6-44c9806db7d8
+* Content: [Configure Windows diagnostic data in your organization (Windows 10 and Windows 11) - Windows Privacy](https://docs.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
+* Content Source: [windows/privacy/configure-windows-diagnostic-data-in-your-organization.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/privacy/configure-windows-diagnostic-data-in-your-organization.md)
+* Product: **m365-security**
+* Technology: **privacy**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

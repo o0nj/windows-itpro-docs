@@ -1,0 +1,33 @@
+title:	Add Office LTSC 2021 to the list of VLP packs
+state:	CLOSED
+author:	jonjunell
+labels:	deployment
+comments:	2
+assignees:	e0i, MaratMussabekov
+projects:	
+milestone:	
+number:	10213
+--
+
+[Enter feedback here]
+
+The VLP for Office 2021 can be added to this page:
+
+Microsoft Office LTSC 2021 Volume License Pack
+
+https://www.microsoft.com/en-us/download/details.aspx?id=103446
+
+Cheers!
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 6d0692f7-f4e8-5d5d-7d38-db343161ae4b
+* Version Independent ID: 9f852760-394c-0621-de03-362aa21dc335
+* Content: [Activate using Active Directory-based activation (Windows 10) - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/volume-activation/activate-using-active-directory-based-activation-client)
+* Content Source: [windows/deployment/volume-activation/activate-using-active-directory-based-activation-client.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/volume-activation/activate-using-active-directory-based-activation-client.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @greg-lindsay
+* Microsoft Alias: **greglin**

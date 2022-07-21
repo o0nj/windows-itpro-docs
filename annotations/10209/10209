@@ -1,0 +1,31 @@
+title:	TPM owner password cannot be changed in Windows 11 despite setting registry config
+state:	CLOSED
+author:	wmjdgla
+labels:	information protection
+comments:	1
+assignees:	e0i, MaratMussabekov, tiburd
+projects:	
+milestone:	
+number:	10209
+--
+> Although the TPM owner password is not retained starting with Windows 10, version 1607, or Windows 11, you can change a default registry key to retain it. ... set the registry key 'HKLM\Software\Policies\Microsoft\TPM' [REG_DWORD] 'OSManagedAuthLevel' to 4.
+
+I set the registry on a Windows 11 laptop and used tpm.msc to clear the TPM, then restarted the machine.
+
+> With Windows 10, version 1507 or 1511, or Windows 11, if you have opted specifically to preserve the TPM owner password, you can use the saved password to change to a new password.
+> To change to a new TPM owner password, in TPM.msc, click Change Owner Password
+
+The "Change Owner Password" option is not present.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 589107e3-caf8-797e-391e-41457437e5c1
+* Version Independent ID: acce4c69-e822-f7e9-8341-06b6d3061c57
+* Content: [Change the TPM owner password (Windows) - Windows security](https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/change-the-tpm-owner-password)
+* Content Source: [windows/security/information-protection/tpm/change-the-tpm-owner-password.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/information-protection/tpm/change-the-tpm-owner-password.md)
+* Product: **m365-security**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

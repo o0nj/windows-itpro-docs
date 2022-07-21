@@ -1,0 +1,29 @@
+title:	Info missing from before you begin
+state:	CLOSED
+author:	Nils-Berghs
+labels:	client management, doc-idea
+comments:	10
+assignees:	e0i, MaratMussabekov
+projects:	
+milestone:	
+number:	10184
+--
+
+[Enter feedback here]
+The 'Before you Begin' section misses an important piece of information: _Before you begin, make sure that the keyboard and mouse settings of the helper PC match those of the shares' PC_ 
+
+I know it is mind bogling that someone actually implemented it this bad, but thats how it is so at least document it.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: bfcd14cd-f887-660f-8a4c-465b3495e90e
+* Version Independent ID: 121eead7-eb87-f033-024a-f688866c58a0
+* Content: [Use Quick Assist to help users - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/quick-assist#feedback)
+* Content Source: [windows/client-management/quick-assist.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/quick-assist.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @jaimeo
+* Microsoft Alias: **jaimeo**

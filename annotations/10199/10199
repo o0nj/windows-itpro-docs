@@ -1,0 +1,26 @@
+title:	Get-DeliveryOptimizationPerfSnap commands need -verbose parameter
+state:	CLOSED
+author:	IntangibleSloth
+labels:	deployment, doc-enhancement
+comments:	3
+assignees:	e0i, MaratMussabekov
+projects:	
+milestone:	
+number:	10199
+--
+
+In the troubleshooting section of this page, the doc says to run "Get-DeliveryOptimizationPerfSnap" in Powershell to see the number of peers. However that data is not returned unless the -verbose parameter is included. -Verbose needs to be added to the commands  in the doc so the numberofpeers value is returned.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: eb67e518-6f60-23e0-2545-c2839e2b4159
+* Version Independent ID: e9a31629-e3cb-0367-31c4-5661284d89bf
+* Content: [Delivery Optimization for Windows client updates - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+* Content Source: [windows/deployment/update/waas-delivery-optimization.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/update/waas-delivery-optimization.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @jaimeo
+* Microsoft Alias: **jaimeo**
