@@ -1,0 +1,26 @@
+title:	Missing newer versions of Windows
+state:	OPEN
+author:	RyanParsonsMS
+labels:	threat-protection, Microsoft submitter, product-question
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10628
+--
+
+Microsoft employee here. I've got a large customer trying to figure out why 1809, a version no longer receiving updates, is the last version of Windows to be FIPS 140-2 certified. I managed to find a document from NIST with a later version of Windows (https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp3923.pdf), but the customer needs to know which newer versions are validated.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: e93f07bf-c0dd-dd83-d7bf-8562e7f197c3
+* Version Independent ID: a6c44187-8ff1-6519-5291-146b4c1bf46c
+* Content: [Federal Information Processing Standard (FIPS) 140 Validation - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/fips-140-validation#_cng_validated_cryptographic)
+* Content Source: [windows/security/threat-protection/fips-140-validation.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/fips-140-validation.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

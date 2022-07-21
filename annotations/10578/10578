@@ -1,0 +1,28 @@
+title:	Sandbox
+state:	OPEN
+author:	mneitzke
+labels:	threat-protection, product-question
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10578
+--
+
+How do I remove the watermark "Activate Windows Go to Settings to activate windows"?
+I have a pro license for the host machine and meet the prerequisites, which enables sandbox usage, therefore my sandbox also should not display this watermark.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 8c06f3ef-5946-862a-ae14-f897fdb518ca
+* Version Independent ID: cd6a8b99-b1e9-dff5-f174-a15840b304f0
+* Content: [Windows Sandbox - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
+* Content Source: [windows/security/threat-protection/windows-sandbox/windows-sandbox-overview.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

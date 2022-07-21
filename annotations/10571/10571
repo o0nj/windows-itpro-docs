@@ -1,0 +1,36 @@
+title:	Verify if these are 'and' or 'or' statements
+state:	OPEN
+author:	hodders73
+labels:	hello-for-business
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10571
+--
+Verify if these are 'and' or 'or' statements
+
+The hybrid deployment model is for organizations that:
+
+- Are federated with Azure Active Directory (or/and;?)
+- Have identities synchronized to Azure Active Directory using Azure Active Directory Connect (or/and;?)
+- Use applications hosted in Azure Active Directory, and want a single sign-in user experience for both on-premises and Azure Active Directory resources (or/and;?)
+
+i.e. are they mutually exclusive or all three need to be in place to be able to implement the hybrid deployment model?
+
+
+
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 5739fab2-c6db-a7a9-b0e7-2bf4b85912a7
+* Version Independent ID: 82c58053-c1d7-d938-1b0f-f3f7f70ada3b
+* Content: [Planning a Windows Hello for Business Deployment - Windows security](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-planning-guide)
+* Content Source: [windows/security/identity-protection/hello-for-business/hello-planning-guide.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/identity-protection/hello-for-business/hello-planning-guide.md)
+* Product: **m365-security**
+* GitHub Login: @Gitprakhar13
+* Microsoft Alias: **prsriva**

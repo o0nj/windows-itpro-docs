@@ -1,0 +1,26 @@
+title:	"DHCP Administrators" missing
+state:	OPEN
+author:	768kb
+labels:	question, identity protection
+comments:	9
+assignees:	e0i, aczechowski
+projects:	
+milestone:	
+number:	6728
+--
+The Active Directory Group "DHCP Administrators" is not mentioned here.
+
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 44e911d3-219e-19b8-4870-07514d9a94a1
+* Version Independent ID: 960a7388-560b-90eb-e0ff-d8d2bb6f9a7a
+* Content: [Active Directory Security Groups - Windows security](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/active-directory-security-groups)
+* Content Source: [windows/security/identity-protection/access-control/active-directory-security-groups.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/identity-protection/access-control/active-directory-security-groups.md)
+* Product: **m365-security**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

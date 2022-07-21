@@ -1,0 +1,32 @@
+title:	delivery optimization 
+state:	OPEN
+author:	gabrielluizbh
+labels:	deployment, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10710
+--
+This documentation needs to be improved.
+
+Very confusing, examples that don't reflect real scenarios.
+
+Demonstrate how to use it together with WSUS which is a very common scenario.
+
+[Enter feedback here]
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 6e39e363-99f3-a517-ef03-c4f177790551
+* Version Independent ID: 6e39e363-99f3-a517-ef03-c4f177790551
+* Content: [Set up Delivery Optimization - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/do/waas-delivery-optimization-setup#feedback)
+* Content Source: [windows/deployment/do/waas-delivery-optimization-setup.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/do/waas-delivery-optimization-setup.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @carmenF
+* Microsoft Alias: **carmenf**

@@ -1,0 +1,27 @@
+title:	ISG only works with Windows Enterprise SKU
+state:	OPEN
+author:	stevenm5781
+labels:	threat-protection
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10672
+--
+
+ISG will only work on Windows enterprise SKUs. Does not work on Windows 10 Business edition. It will not write the extended attribute to the file. If I run the same file using the same Code integrity policy on a windows enterprise machine it will successfully added the extended attribute to the file.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 2586cc9a-d449-97cf-8164-c2e4bbed7c1e
+* Version Independent ID: d606e2a2-465e-6d45-62dd-d57ff85b6a1a
+* Content: [Authorize reputable apps with the Intelligent Security Graph (ISG) (Windows) - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/use-windows-defender-application-control-with-intelligent-security-graph)
+* Content Source: [windows/security/threat-protection/windows-defender-application-control/use-windows-defender-application-control-with-intelligent-security-graph.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/windows-defender-application-control/use-windows-defender-application-control-with-intelligent-security-graph.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @jsuther1974
+* Microsoft Alias: **dansimp**

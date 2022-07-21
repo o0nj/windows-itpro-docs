@@ -1,0 +1,29 @@
+title:	Windows 11 Enterprise vs Pro table missing
+state:	OPEN
+author:	htcfreek
+labels:	deployment, doc-bug
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10603
+--
+The table comparing enterprise and pro for windows 11 is missing.
+
+
+![image](https://user-images.githubusercontent.com/61519853/172844094-e803ba8c-6806-405c-97f2-d248cddc78d9.png)
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 3cf22b00-1c7f-5fd8-7e21-f3a50da00a15
+* Version Independent ID: f118fd3a-d0b3-ae53-0b59-a049fe18eb15
+* Content: [Windows 10/11 Enterprise E3 in CSP - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/windows-10-enterprise-e3-overview)
+* Content Source: [windows/deployment/windows-10-enterprise-e3-overview.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/windows-10-enterprise-e3-overview.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

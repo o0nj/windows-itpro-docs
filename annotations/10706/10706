@@ -1,0 +1,28 @@
+title:	FIPS mode for TLS
+state:	OPEN
+author:	qiufasheng
+labels:	threat-protection, Microsoft submitter
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10706
+--
+
+[Enter feedback here]
+In this page it is saying if FIPS enabled, on 3DES and TLS_RSA will be supported. Is this information up to date? 3DES is not allowed by Microsoft and FedRamp. TLS_ECDHA is providing forward secrecy, but it is not supported in FIPS mode if the statement is true.
+Thanks!
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: e4e0e95f-4b95-51ef-d881-43bd2245d2c1
+* Version Independent ID: 7f414727-7e8b-939d-f40e-0636d2b33f1a
+* Content: [System cryptography Use FIPS compliant algorithms for encryption, hashing, and signing (Windows 10) - Windows security](https://docs.microsoft.com/en-US/windows/security/threat-protection/security-policy-settings/system-cryptography-use-fips-compliant-algorithms-for-encryption-hashing-and-signing)
+* Content Source: [windows/security/threat-protection/security-policy-settings/system-cryptography-use-fips-compliant-algorithms-for-encryption-hashing-and-signing.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/security-policy-settings/system-cryptography-use-fips-compliant-algorithms-for-encryption-hashing-and-signing.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

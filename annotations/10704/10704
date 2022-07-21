@@ -1,0 +1,33 @@
+title:	SurfaceHub CSP Page Missing Details For Management Node
+state:	OPEN
+author:	DownBackDad
+labels:	client management
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10704
+--
+The tree format listing of SurfaceHub CSP management objects (at the top of this page) lists the following objects:
+
+----Management
+--------GroupName
+--------GroupSid
+
+However, there is no corresponding information on them throughout the rest of the page.
+
+Are these settings deprecated and should be removed from the tree view? Or are they valid and should have corresponding description and configuration details included on the page?
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 167fe82b-002b-39a5-ffc4-e77e10e23302
+* Version Independent ID: 6d416711-11b7-8231-0ced-343cbd7103f1
+* Content: [SurfaceHub CSP - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/surfacehub-csp)
+* Content Source: [windows/client-management/mdm/surfacehub-csp.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/surfacehub-csp.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

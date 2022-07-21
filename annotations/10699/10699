@@ -1,0 +1,28 @@
+title:	CTRL + WINDOWS + Q stopped working in 21H2
+state:	OPEN
+author:	pcpackrat
+labels:	client management
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10699
+--
+CTRL + WINDOWS + Q stopped working in 21H2
+
+
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: bfcd14cd-f887-660f-8a4c-465b3495e90e
+* Version Independent ID: 121eead7-eb87-f033-024a-f688866c58a0
+* Content: [Use Quick Assist to help users - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/quick-assist)
+* Content Source: [windows/client-management/quick-assist.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/quick-assist.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

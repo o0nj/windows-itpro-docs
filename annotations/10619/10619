@@ -1,0 +1,27 @@
+title:	automatic rule creation
+state:	OPEN
+author:	jefesonalves
+labels:	windows firewall, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10619
+--
+
+It is not clear how to prevent automatic creation of inbound rules from specifics apps. How to block all?
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 88e8e24b-481e-babb-a4e7-c5639f2492a2
+* Version Independent ID: f61e0165-fd95-0fc4-a52c-0b4c40735ea3
+* Content: [Best practices for configuring Windows Defender Firewall - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/best-practices-configuring)
+* Content Source: [windows/security/threat-protection/windows-firewall/best-practices-configuring.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/windows-firewall/best-practices-configuring.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @schmurky
+* Microsoft Alias: **maccruz**

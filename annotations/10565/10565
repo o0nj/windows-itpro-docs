@@ -1,0 +1,43 @@
+title:	Requesting explicit list of AD DC services needed to complete WH4B login with HAADJ
+state:	OPEN
+author:	EHLOthere
+labels:	hello-for-business
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10565
+--
+I am Vibour, working with Identity. We've received a request to enumerate all required Active Directory Domain Controller service that must be running/functioning for a HAADJ WH4B logon to complete.
+ 
+[https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-how-it-works-authentication#hybrid-azure-ad-join-authentication-using-a-key]\
+ 
+ 
+"The Kerberos provider ensures it can trust the response from the domain
+controller. First, it ensures the KDC certificate chains to a root
+certificate that is trusted by the device. Next, it ensures the
+certificate is within its validity period and that it has not been
+revoked. The Kerberos provider then verifies the certificate has the
+KDC Authentication present and that the subject alternate name listed in
+the KDC's certificate matches the domain name to which the user is
+authenticating."
+ 
+ 
+ 
+It talks about validating the certificate, but not about the actual services it uses to do this. It lists some specific services, like the KDC service, Lsass and explorer, but it does not list the smartcard logon service, which appears to be required. Support received a service request because HAADJ wH4B logon could not be completed because the smartcard logon service was disabled. Customer wants to have all explicit services for HAADJ Wh4B logon to specified.
+ 
+Do we have an explicit list of all services on 2016 DC that are required for HAADJ WH4B logon to succeed? If not, can we update the documentation to include an explicit list of services?
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 10fcf686-1781-8a62-16bb-b26b3f5982fd
+* Version Independent ID: 37d733ad-e809-1674-ffbc-ae3d0c495423
+* Content: [How Windows Hello for Business works - Authentication - Windows security](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-how-it-works-authentication#hybrid-azure-ad-join-authentication-using-a-key)
+* Content Source: [windows/security/identity-protection/hello-for-business/hello-how-it-works-authentication.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/identity-protection/hello-for-business/hello-how-it-works-authentication.md)
+* Product: **m365-security**
+* GitHub Login: @Gitprakhar13
+* Microsoft Alias: **prsriva**

@@ -1,0 +1,26 @@
+title:	Outlook blocks MDM enrollment deep-link
+state:	OPEN
+author:	danboothisdm
+labels:	client management, doc-enhancement
+comments:	3
+assignees:	e0i
+projects:	
+milestone:	
+number:	10714
+--
+If we try to send an email containing  the deep link described in this article to launch MDM enrollment, Outlook removes the link.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 39ae2ccd-9f3f-dcb5-3a20-46b1b4fd3d53
+* Version Independent ID: b381c208-94b1-2d22-ef16-a57c138a7d72
+* Content: [MDM enrollment of Windows 10-based devices - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/mdm-enrollment-of-windows-devices)
+* Content Source: [windows/client-management/mdm/mdm-enrollment-of-windows-devices.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/mdm-enrollment-of-windows-devices.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

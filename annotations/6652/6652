@@ -1,0 +1,37 @@
+title:	precedence of UAC component "CreateProcess"'s three checking conditions is unclear
+state:	OPEN
+author:	1600
+labels:	identity protection, doc-enhancement
+comments:	3
+assignees:	e0i
+projects:	
+milestone:	
+number:	6652
+--
+from the documentation:
+
+> " CreateProcess calls AppCompat, Fusion, and Installer detection to assess ..."
+
+we can see there are 3 things that can trigger UAC prompt:
+1. App compatibility settings
+2. Fusion,  the application manifest
+3. Installer Detection Technology
+
+a. is there different priority levels to process 3 settings above? 
+b. if the application manifest overrides other settings, Why is an executable ran from standard user requesting for Elevation prompt when its manifest specifys asInvoker?
+ I know this is not tech support, but if only you could make the documentation clearer about this,   hundreds of thousand of developers, admins could benefit from it. 
+
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 495688e2-ca8d-a005-19d2-5ee9138c86f2
+* Version Independent ID: 760f236c-5eb0-00cd-9553-990f29ee5aa4
+* Content: [How User Account Control works (Windows) - Windows security](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/how-user-account-control-works)
+* Content Source: [windows/security/identity-protection/user-account-control/how-user-account-control-works.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/identity-protection/user-account-control/how-user-account-control-works.md)
+* Product: **m365-security**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

@@ -1,0 +1,41 @@
+title:	Device Credential vs User Credential differences and usages in this article are extremely unclear. 
+state:	OPEN
+author:	neorithias
+labels:	client management, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10611
+--
+Hello,
+
+I feel this article is unclear in the options it gives for GPO to auto enroll devices in Intune.
+
+There are two options, device and user credential. 
+
+The writer says "Use user credential for devices 1903 and later" but then says "Device Credential is a new option for 1903 PCs, used only in the case of Co-Management". 
+
+It's as if to say, Device Credential is available as a feature for 1903 PCs, but don't use it. I assume that's because it needs co-management with SCCM, but even that is unclear, because otherwise why does the article say, "Use user credential" for ALL devices 1903 and later?
+
+Also, it is unclear what the differences between Device Credential and User credential enrollments are. I am having trouble finding any information about this, anywhere. Please clarify what each option is and does, and for what scenarios. 
+
+See the attached picture with snip it highlights for an example of the unclear language. Thank you!
+
+![image](https://user-images.githubusercontent.com/46192953/173141326-a5c6a4a8-7f3b-4428-bfbf-d58c147cf28e.png)
+
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: ad012591-5c74-f1cd-d3a2-443768e8ceee
+* Version Independent ID: 918ea4bc-0849-3745-5d9d-a21a973bcd3b
+* Content: [Enroll a Windows 10 device automatically using Group Policy - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy#configure-the-auto-enrollment-group-policy-for-a-single-pc)
+* Content Source: [windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

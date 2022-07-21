@@ -1,0 +1,30 @@
+title:	Device Credentials and AVD Personal Session Host
+state:	OPEN
+author:	GavTan
+labels:	client management, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10610
+--
+
+This page says
+
+Device Credential is only supported for Microsoft Intune enrollment in scenarios with Co-management or **Azure Virtual Desktop because the Intune subscription is user centric.**
+
+What does this even mean? I have a Windows 10 21H2 AVD Personal, Hybrid Joined without SCCM and trying to auto-enrol into Intune and Device Credential is not working. Is Device Credential the option to allow the device to enroll before a user signs in?
+
+---
+#### Document details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: ad012591-5c74-f1cd-d3a2-443768e8ceee
+* Version Independent ID: 918ea4bc-0849-3745-5d9d-a21a973bcd3b
+* Content: [Enroll a Windows 10 device automatically using Group Policy - Windows Client Management](https://docs.microsoft.com/en-au/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy#configure-the-auto-enrollment-for-a-group-of-devices)
+* Content Source: [windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

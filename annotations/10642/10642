@@ -1,0 +1,26 @@
+title:	Clarification Needed
+state:	OPEN
+author:	Dverp
+labels:	doc-enhancement
+comments:	1
+assignees:	e0i
+projects:	
+milestone:	
+number:	10642
+--
+For this... "Windows uses facial recognition to authenticate the RDP session to the Windows Server 2016 Hyper-V server. You can continue to use Windows Hello for Business in the remote session, but you must use your PIN."
+If it automatically uses facial recognition to authenticate the RDP session, then how do instead use my Hello for Business PIN? 
+There was no mention of an OS until this note - "Windows Server 2016 Hyper-V computer".  Is Svr2016 a minimum requirement? AND it specifically stated Hyper-V... is that also a requirement?  This should be pointed out as a requirement, not as a side-note for a side-note.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: b3d6356b-87ff-8c3a-56ef-1270a823d3ab
+* Version Independent ID: 4d6ae878-66cf-0e10-bdf3-bdd6054cbc9d
+* Content: [What's new in Windows 10, version 1809 - What's new in Windows](https://docs.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-1809#remote-desktop-with-biometrics)
+* Content Source: [windows/whats-new/whats-new-windows-10-version-1809.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/whats-new/whats-new-windows-10-version-1809.md)
+* Product: **w10**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

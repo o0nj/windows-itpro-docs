@@ -1,0 +1,27 @@
+title:	Windows Update Errors - Missing References
+state:	OPEN
+author:	CountBacula
+labels:	update
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10664
+--
+
+Doesn't contain entries for either 0x800F0922 or 0x80246007. 0x80246007 is referenced on https://docs.microsoft.com/en-us/windows/deployment/update/windows-update-error-reference but this does not include any mitigation steps.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 1cb9f2a2-76ad-8301-7d80-e33a7bb80a1b
+* Version Independent ID: dd070c32-53d5-53d6-7ba2-a4361b5263bb
+* Content: [Windows Update common errors and mitigation - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/update/windows-update-errors)
+* Content Source: [windows/deployment/update/windows-update-errors.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/update/windows-update-errors.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

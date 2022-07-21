@@ -1,0 +1,31 @@
+title:	Deprecation of Internet Explorer Question for Intune Settings catalog: 
+state:	OPEN
+author:	dgalbrai
+labels:	client management, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10593
+--
+What will happen to all these Internet Explorer Setting Catalog Settings when Internet Explorer is Deprecated on 15 JUN 2022. Will these be deprecated? Are they going to be moved to browser settings? Or will these settings be available for Microsoft Edge?
+
+How can we facilitate things like the Turn off encryption support for the future?
+
+Thank you for your consideration,
+
+Danea
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: b290a291-ccb6-953f-0679-2a56a927620e
+* Version Independent ID: 6a86d25c-12ea-1f8d-2758-4d13352e7718
+* Content: [Policy CSP - Cryptography - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-cryptography#cryptography-tlsciphersuites)
+* Content Source: [windows/client-management/mdm/policy-csp-cryptography.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/policy-csp-cryptography.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

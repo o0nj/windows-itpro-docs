@@ -1,0 +1,31 @@
+title:	Please note that current certificate for SetupDiag.exe v1.6.2107.27002 has expired on 12/02/2021
+state:	OPEN
+author:	SwimmeRM
+labels:	deployment, doc-bug
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10614
+--
+Please note that current certificate for SetupDiag.exe v1.6.2107.27002 has already expired on 12/02/2021.
+Unless you're going to provide another update of same tool I hope that at least you can soon just ensure that same tool it's published again with a non expired yet certificate.
+Thanks for attention.
+Best Regards
+
+[Enter feedback here]
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 5ad81361-15d8-0e95-9d5f-090dbf270f10
+* Version Independent ID: c0c32397-d5d6-cce1-79fd-c310bec05240
+* Content: [SetupDiag - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/upgrade/setupdiag)
+* Content Source: [windows/deployment/upgrade/setupdiag.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/upgrade/setupdiag.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

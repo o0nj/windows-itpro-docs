@@ -1,0 +1,26 @@
+title:	デバイスごとにPIN変える奴なんかいるわけないだろ
+state:	OPEN
+author:	yisikawa
+labels:	identity protection, needs-more-info
+comments:	1
+assignees:	e0i
+projects:	
+milestone:	
+number:	10711
+--
+
+[フィードバックをこちらに入力してください]
+デバイスごとにPIN変える奴なんかいるわけないだろ
+
+---
+#### ドキュメントの詳細
+
+⚠ *このセクションを編集しないでください。 docs.microsoft.com で必須です ➟ GitHub の問題のリンク。*
+
+* ID: c34dbafa-df3c-a5a5-32d5-2ce152893534
+* Version Independent ID: cebdd9a6-45d7-6306-373c-7d31121f9e16
+* Content: [PIN がオンライン パスワードよりも優れている理由 (Windows) - Windows security](https://docs.microsoft.com/ja-jp/windows/security/identity-protection/hello-for-business/hello-why-pin-is-better-than-password)
+* Content Source: [windows/security/identity-protection/hello-for-business/hello-why-pin-is-better-than-password.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/main/windows/security/identity-protection/hello-for-business/hello-why-pin-is-better-than-password.md)
+* Product: **m365-security**
+* GitHub Login: @Gitprakhar13
+* Microsoft Alias: **prsriva**

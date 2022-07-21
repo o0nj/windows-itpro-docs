@@ -1,0 +1,30 @@
+title:	Suggestion, add a screenshot for step 4
+state:	OPEN
+author:	SpitFire-666
+labels:	threat-protection
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10677
+--
+Purely a suggestion. Step 4 (right clicking Group Policy Objects and selecting Paste) was tripping me up - as you need to know exactly where and what to click. The rest of the copy process is easy!
+
+I'm guessing others get stuck here too, as when you click "Copy", nothing appears to happen. Anyways a screenshot like below was all I needed:
+
+![image](https://user-images.githubusercontent.com/38451588/176794257-e490f834-2887-43c0-9bb9-7619ed1cb6d4.png)
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: cc1944ed-39a5-07fc-3c95-91093c83d108
+* Version Independent ID: 140ef3f3-e198-b886-8488-cf2554974b69
+* Content: [Copy a GPO to Create a New GPO (Windows) - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/copy-a-gpo-to-create-a-new-gpo)
+* Content Source: [windows/security/threat-protection/windows-firewall/copy-a-gpo-to-create-a-new-gpo.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/windows-firewall/copy-a-gpo-to-create-a-new-gpo.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

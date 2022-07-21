@@ -1,0 +1,29 @@
+title:	Missing Link
+state:	OPEN
+author:	pwilliv
+labels:	threat-protection
+comments:	1
+assignees:	e0i
+projects:	
+milestone:	
+number:	10657
+--
+The mentioned Table "Tabelle 13. Dateizugriffscodes." of Accesscodes is not linked.
+This would be helpful.
+
+
+(admin edit: switching to the en-us source file for preferred tracking)
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 7cb8130d-57c1-beb4-8ae7-cccfda489627
+* Version Independent ID: 5a9afa7b-2745-9b86-8a4e-03bf2294053c
+* Content: [5140(S, F) A network share object was accessed. (Windows 10) - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5140)
+* Content Source: [windows/security/threat-protection/auditing/event-5140.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/auditing/event-5140.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

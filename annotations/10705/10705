@@ -1,0 +1,27 @@
+title:	Certificate #3197 has been marked "Historical" by NIST
+state:	OPEN
+author:	thomasamaier
+labels:	threat-protection
+comments:	1
+assignees:	aczechowski
+projects:	
+milestone:	
+number:	10705
+--
+Certificate # 3197 has been marked "Historical" by NIST.  That should be mentioned in this article and some information regarding the future direction indicated.
+
+This is kind of a big deal for companies who deliver solutions to the US Federal Government that run on Windows Operating Systems.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: e93f07bf-c0dd-dd83-d7bf-8562e7f197c3
+* Version Independent ID: a6c44187-8ff1-6519-5291-146b4c1bf46c
+* Content: [Federal Information Processing Standard (FIPS) 140 Validation - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/fips-140-validation#feedback)
+* Content Source: [windows/security/threat-protection/fips-140-validation.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/fips-140-validation.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

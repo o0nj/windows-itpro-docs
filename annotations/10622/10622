@@ -1,0 +1,41 @@
+title:	EnforceShellExtensionSecurity does not work as expected on Windows 7 and higher versions.
+state:	OPEN
+author:	AndyFul
+labels:	client management, product-feedback
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10622
+--
+I tested the policy EnforceShellExtensionSecurity on several machines with different versions of Windows. The policy can be enabled via:
+
+Registry Hive: HKEY_CURRENT_USER or HKEY_LOCAL_MACHINE
+Registry Path: Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+Value Name: EnforceShellExtensionSecurity
+Value Type: REG_DWORD
+Enabled Value: 1
+
+It works as intended on Windows XP (both for HKCU and HKLM Hives).
+It does not work as intended on Windows 7, Windows 10, and Windows Server 2019.
+Tested on shell extensions added by popular archives (7-Zip, Bandizip, etc.). 
+After removing application CLSIDs from the registry key: 
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved
+these shell extensions are blocked (disappear from the right-click Explorer context menu) on Windows XP, but still, work on Windows 7+.
+
+[Enter feedback here]
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 6fe02a28-215f-f176-6086-8e79fcb48471
+* Version Independent ID: f9143995-669d-be4d-3632-be2d0517d452
+* Content: [Policy CSP - ADMX_WindowsExplorer - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-admx-windowsexplorer#admx-windowsexplorer-enforceshellextensionsecurity)
+* Content Source: [windows/client-management/mdm/policy-csp-admx-windowsexplorer.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/policy-csp-admx-windowsexplorer.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

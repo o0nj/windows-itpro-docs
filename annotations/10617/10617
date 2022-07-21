@@ -1,0 +1,41 @@
+title:	Incorrect Policy Names
+state:	OPEN
+author:	jonathan-mckinney
+labels:	client management, doc-bug
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10617
+--
+This document has the incorrect names on the title of each policy, as well as the below instructions explaining the policy and the admx equivalents:
+
+Incorrect:
+SetPolicyDrivenUpdateSourceForDriver
+SetPolicyDrivenUpdateSourceForFeature
+SetPolicyDrivenUpdateSourceForQuality
+SetPolicyDrivenUpdateSourceForOther
+
+Correct:
+SetPolicyDrivenUpdateSourceForDriverUpdates
+SetPolicyDrivenUpdateSourceForFeatureUpdates
+SetPolicyDrivenUpdateSourceForQualityUpdates
+SetPolicyDrivenUpdateSourceForOtherUpdates
+
+I believe this may be why the settings catalog profile type does not work in Endpoint Manager with these CSP's but the custom OMA-URI works. If you attempt to use the settings provided in the settings catalog it will show "not applicable" even though the policy is applicable. 
+
+If Endpoint Manager looks for the wrong CSP registry entries, the machine will respond with "The system cannot find the file specified." It then assumes since it cannot find the correct registry entries that you are simply on an old version of windows 10 and shows the "not applicable" status.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 91ca58bd-f279-7739-0140-c4bd56784768
+* Version Independent ID: 1d2ecc90-58a3-6bcd-84ae-ef04d7a3b7b4
+* Content: [Policy CSP - Update - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-Update?WT.mc_id=Portal-fx#update-setdisableuxwuaccess)
+* Content Source: [windows/client-management/mdm/policy-csp-update.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/policy-csp-update.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

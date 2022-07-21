@@ -1,0 +1,28 @@
+title:	How do I customize the Sandbox Window Size?
+state:	OPEN
+author:	shantanub08
+labels:	threat-protection
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10689
+--
+
+[Enter feedback here]
+
+How do I customize the Sandbox Window Size? By default it opens at half of the resolution of my entire screen [5120x1440] I want it to open in 1280x720 or 1920x1080
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 2efc9d32-0f98-0804-78a4-4caccdfac010
+* Version Independent ID: 797bb0d3-bade-98f6-fe85-508764571f37
+* Content: [Windows Sandbox configuration - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-configure-using-wsb-file)
+* Content Source: [windows/security/threat-protection/windows-sandbox/windows-sandbox-configure-using-wsb-file.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/windows-sandbox/windows-sandbox-configure-using-wsb-file.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

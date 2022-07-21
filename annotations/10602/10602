@@ -1,0 +1,25 @@
+title:	No explanation to "preview"
+state:	OPEN
+author:	areels
+labels:	hello-for-business, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10602
+--
+Hi 
+
+we see "preview mode" in the title but there is no explanation to what it is. 
+
+1. What preview mode means exactly? Shouldn't we start using? 
+2. What are the cons if we adopt something in preview mode? 
+3. when preview will end?  I wouldn't care to adopt solution if there is a defined date and if it's close.
+
+The real problem here is the Microsoft wizard in admin panel suggests to adopt cloud trust model but this wizard is not aware of preview mode. 
+
+if it's preview, microsoft shouldn't suggest to use it as an option. 
+
+we have requested cloud trust setup from our vendor and they rejected with the excuse of preview mode and adopted old fashion method.
+
+https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-cloud-trust

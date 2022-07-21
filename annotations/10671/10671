@@ -1,0 +1,33 @@
+title:	Group Policy edit setting not reflected in System Info
+state:	OPEN
+author:	paulsmason
+labels:	threat-protection
+comments:	8
+assignees:	e0i
+projects:	
+milestone:	
+number:	10671
+--
+
+[Enter feedback here]
+Windows 11 Pro
+
+Computer Configuration > Administrative Templates > System > Device Guard > Turn On Virtualization Based Security > Secure Launch Configuration says "Enabled".
+
+But System Information > Virtualization-base Security services running does not include "Secure launch"
+
+Is it on or off??
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 31d623d9-316c-0ef1-b6be-c3773d77ca21
+* Version Independent ID: 83ddb59d-0cfc-34f2-e666-8927d86a04a7
+* Content: [System Guard Secure Launch and SMM protection (Windows 10) - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection)
+* Content Source: [windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

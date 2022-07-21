@@ -1,0 +1,21 @@
+title:	How to troubleshoot MSP field value missing (UpdateCompliance Configuration)
+state:	OPEN
+author:	jdb5
+labels:	deployment, product-question
+comments:	1
+assignees:	e0i
+projects:	
+milestone:	
+number:	10616
+--
+At the [Configuring devices through the Update Compliance Configuration Script](https://docs.microsoft.com/en-us/windows/deployment/update/update-compliance-configuration-script) page, at the bottom there is a section **Verify device configuration**.  I have followed the steps and my Commerical ID is showing, but the MSP field isn't there.  I've waited 72 hours and I am not seeing anything in my _UpdateCompliance Summary tile._
+
+Run the Diagnostic Data Viewer.
+
+Go to Start, select Settings > Privacy > Diagnostics & feedback.
+Under View diagnostic data, select Open Diagnostic Data Viewer.
+When the Diagnostic Data Viewer opens, type SoftwareUpdateClientTelemetry in the search field. Verify the following items:
+
+The EnrolledTenantID field under m365a should equal the [CommercialID](https://docs.microsoft.com/en-us/windows/deployment/update/update-compliance-get-started#get-your-commercialid) of your Log Analytics workspace for Update Compliance.
+**The MSP field value under protocol should be either 16 or 18.**
+If you need to send this data to Microsoft Support, select Export data.

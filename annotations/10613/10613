@@ -1,0 +1,27 @@
+title:	Need section to Migrate Libraries to New PC
+state:	OPEN
+author:	haslettg
+labels:	client management, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10613
+--
+
+[Enter feedback here]
+Please include a section on how to migrate all you Windows 10 libraries from a old pc to a new one.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 91d49472-1731-a90d-8aaf-e4ccde918c91
+* Version Independent ID: 50498201-3f97-2c9c-a4df-58b1c24e7877
+* Content: [Windows Libraries - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/windows-libraries)
+* Content Source: [windows/client-management/windows-libraries.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/windows-libraries.md)
+* Product: **windows-server-threshold**
+* Technology: **storage**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

@@ -1,0 +1,26 @@
+title:	Are events 4802 and 4803 missing from Windows 11?
+state:	OPEN
+author:	Jibun-no-Kage
+labels:	threat-protection
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10676
+--
+Are events 4802 and 4803 missing from Windows 11?  There are many posts in Google that ask this question but no apparent response or communication from Microsoft on this issue.  On the official page, this page there is nothing suggesting these events are removed from Windows 11, or where Windows 10 and older specific.  Please provide reference or explanation of why Windows 11 no longer generates event ids 4802 and 4803.  Even if other logon events GPO policy is enabled, such that 4800 and 4801 events are generated, correctly, events 4802 and 4803 are not generated on Windows 11 at all.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 326b1f74-f183-d9c4-7802-51a85743ef2f
+* Version Independent ID: bacf84a4-13b9-ae0b-c0e7-aa9b91b0340e
+* Content: [4802(S) The screen saver was invoked. (Windows 10) - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4802)
+* Content Source: [windows/security/threat-protection/auditing/event-4802.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/auditing/event-4802.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

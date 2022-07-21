@@ -1,0 +1,27 @@
+title:	Update Incompatible Switch List
+state:	OPEN
+author:	Jurstin
+labels:	deployment
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10576
+--
+
+You need to add /listfiles: as an incompatible switch to be used with genconfig. 
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 7c7e6db2-1517-e9b9-cd9a-6a6aaf84ccc3
+* Version Independent ID: daab80f9-640e-36c9-e60a-084901b11c05
+* Content: [ScanState Syntax (Windows 10) - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-scanstate-syntax)
+* Content Source: [windows/deployment/usmt/usmt-scanstate-syntax.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/usmt/usmt-scanstate-syntax.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

@@ -1,0 +1,36 @@
+title:	Update Access Request Information Hex Value for AppendData
+state:	OPEN
+author:	tecnojp
+labels:	threat-protection, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10650
+--
+The Access Request Information Hex Value for AppendData inform the Hex Value '0x4'.
+But when working on Event Viewer for a File System Audit, the Event for AppendData has a different Hex value on the Access Mask.
+
+As can be checked in the following print I modified a text file with notepad.
+And the Access Mask for AppendData has a Hex Value of '0x6'.
+
+General View
+![image](https://user-images.githubusercontent.com/34861574/175133145-90bc2eb6-b932-4e14-8afd-c36bb809204e.png)
+Friendly View
+![image](https://user-images.githubusercontent.com/34861574/175134035-5d6f979e-6451-498c-9ba6-db253d017a6f.png)
+XML View
+![image](https://user-images.githubusercontent.com/34861574/175134010-28455dec-c87b-484b-b1e3-f2fd2ca5f13f.png)
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 5ec83662-ba89-4745-9dba-93b9c9308ca5
+* Version Independent ID: 36c613c0-14cb-8926-55d5-89ac6c726051
+* Content: [4663(S) An attempt was made to access an object. (Windows 10) - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663)
+* Content Source: [windows/security/threat-protection/auditing/event-4663.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/auditing/event-4663.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

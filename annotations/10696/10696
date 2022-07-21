@@ -1,0 +1,28 @@
+title:	After trying the many ways to fix this listed by Microsoft, I found one that worked
+state:	OPEN
+author:	JamieL22
+labels:	update
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10696
+--
+Link to fix for the KB defender update issue
+
+https://answers.microsoft.com/en-us/protect/forum/all/protection-definition-update-failed-error-code/5e0c085c-b5fb-4ef5-ba9e-75437139f261?page=2
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 886426b5-8548-1cfc-ccd2-fd03e549c967
+* Version Independent ID: 599aea76-47e4-dccc-799c-2d8acf549546
+* Content: [Windows Update - Additional resources - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/update/windows-update-resources#how-do-i-reset-windows-update-components)
+* Content Source: [windows/deployment/update/windows-update-resources.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/update/windows-update-resources.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

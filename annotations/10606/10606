@@ -1,0 +1,36 @@
+title:	Incorrect information for EnableExtendedIEModeHotkeys
+state:	OPEN
+author:	ken-chy
+labels:	client management, doc-bug
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10606
+--
+Hi, I found the information about EnableExtendedIEModeHotkeys is incorrect:
+
+ADMX Info: _(Incorrect info in italic)_ **[Correct info in bold]**
+
+- GP Friendly name: _(Allows enterprises to provide their users with a single-browser experience)_ **[Enable extended hot keys in Internet Explorer mode]**
+- GP name: EnableExtendedIEModeHotkeys
+- GP path: Windows **[Components/Internet Explorer]**_(/Security Features/Add-on Management)_
+- GP ADMX file name: inetres.admx
+
+
+Regards,
+Ken
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 7d7e46e1-7659-2efd-341d-9a0ba4adb4bd
+* Version Independent ID: 4e032a82-36f1-f1c1-d8d4-8cce7e42799b
+* Content: [Policy CSP - InternetExplorer - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-internetexplorer#internetexplorer-enableextendediemodehotkeys)
+* Content Source: [windows/client-management/mdm/policy-csp-internetexplorer.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/policy-csp-internetexplorer.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

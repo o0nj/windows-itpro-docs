@@ -1,0 +1,16 @@
+title:	AADJ onprem SSO for AADJ devices in Cloud Trust Deployment
+state:	OPEN
+author:	dbona75
+labels:	question
+comments:	3
+assignees:	e0i
+projects:	
+milestone:	
+number:	10624
+--
+Hello, please add also a section about how to use the new Cloud Trust Deployment model for SSO to on prem using AADJ devices.
+
+If you have Hybrid Cloud Trust Backend requirements (Kerberos Server and patched DC) you can use also AADJ devices to on prem resources access. In particular PKI configuration and DC certificates are no more required. Note that AADJ devices must have on prem DNS domain name in the primary DNS suffix using DHCP or manually in the network connection "dns suffix for this connection".
+
+Regards
+

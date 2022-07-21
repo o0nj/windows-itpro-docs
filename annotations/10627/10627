@@ -1,0 +1,30 @@
+title:	Newer versions of Windows not included
+state:	OPEN
+author:	Jon-Horner
+labels:	threat-protection, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10627
+--
+Modules used by Windows - https://docs.microsoft.com/en-us/windows/security/threat-protection/fips-140-validation#modules-used-by-windows seems to stop at 1809, leading customer to questions if newer versions of Windows are still covered.
+
+Do we plan to update this page? What can be done to ensure customers that newer versions of Windows are compliant. This is slowing the sales cycle for several accounts.
+
+thanks,
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: e93f07bf-c0dd-dd83-d7bf-8562e7f197c3
+* Version Independent ID: a6c44187-8ff1-6519-5291-146b4c1bf46c
+* Content: [Federal Information Processing Standard (FIPS) 140 Validation - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/fips-140-validation#_cng_validated_cryptographic)
+* Content Source: [windows/security/threat-protection/fips-140-validation.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/fips-140-validation.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

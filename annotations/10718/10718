@@ -1,0 +1,17 @@
+title:	Windows Release health
+state:	OPEN
+author:	mmelkersen
+labels:	update
+comments:	1
+assignees:	
+projects:	
+milestone:	
+number:	10718
+--
+Hi
+
+[Windows Release Health](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/update/check-release-health.md)
+
+I don't see that in my portal and my user is Global Admin. Has it been removed or are there other requisites for this to be shown?
+![2022-07-20_09-04-54](https://user-images.githubusercontent.com/77377683/179919269-fa99810b-6d43-49fa-be77-539ec541a59f.png)
+

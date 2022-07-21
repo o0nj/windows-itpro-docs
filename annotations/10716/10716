@@ -1,0 +1,26 @@
+title:	If IHV driver required for Kernel DMA protection
+state:	OPEN
+author:	belle-hsu
+labels:	information protection
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10716
+--
+Hi, 
+Since this is feature enabled automatically by OS, after reviewing this article, still not sure if the feature needs IHV driver support?
+https://docs.microsoft.com/en-us/windows/security/information-protection/kernel-dma-protection-for-thunderbolt 
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: b9b83e95-63de-87c5-929c-d5f25e33d124
+* Version Independent ID: 743ead3f-b4a5-1589-6577-e1d12aaa1b92
+* Content: [Kernel DMA Protection (Windows) - Windows security](https://docs.microsoft.com/en-us/windows/security/information-protection/kernel-dma-protection-for-thunderbolt)
+* Content Source: [windows/security/information-protection/kernel-dma-protection-for-thunderbolt.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/information-protection/kernel-dma-protection-for-thunderbolt.md)
+* Product: **m365-security**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

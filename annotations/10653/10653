@@ -1,0 +1,32 @@
+title:	Missing GPO for AllowSearchHighlights in latest Win10 & Win11 admx
+state:	OPEN
+author:	mntorq
+labels:	client management, doc-bug
+comments:	3
+assignees:	e0i
+projects:	
+milestone:	
+number:	10653
+--
+For Search/AllowSearchHighlights GPO
+https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-search#search-allowsearchhighlights 
+It does not appear in Win11 21H2 search.admx (file date 6/5/21) files or latest Win10 download version 'Windows 10 November 2021 Update [21H2] found here: https://www.microsoft.com/en-us/download/103667  (file date 12/7/19)
+
+I have searched the ADMX file of each and neither have the word 'highlight' which matches my finding when attempting to locate the specific GPO after placing the files in the Central Store - there is no entry for AllowSearchHighlights.
+
+![image](https://user-images.githubusercontent.com/66257685/175385066-2c27aa40-ed59-4477-a90b-c0209dd681ae.png)
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 12404d25-d284-8578-6eb5-4cf3b2373781
+* Version Independent ID: a6ff7cf5-1884-afe4-7415-8544de981fed
+* Content: [Policy CSP - Search - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-search)
+* Content Source: [windows/client-management/mdm/policy-csp-search.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/policy-csp-search.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

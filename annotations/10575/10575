@@ -1,0 +1,37 @@
+title:	How to collect Windows Information Protection (WIP) audit event logs
+state:	OPEN
+author:	ms-bakkali
+labels:	information protection
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10575
+--
+
+This guide needs updating to reflect UI changes in Azure log analytics blades
+Advance settings is not longer available as an option,
+the new ui is different and the logs are added via agent configuration
+
+also 
+These logs do not appear in the field box as pre populated when search list. they have to be manually types in full an added.
+
+Microsoft-Windows-EDP-Application-Learning/Admin
+Microsoft-Windows-EDP-Audit-TCB/Admin
+
+
+
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 57a6a750-9f60-7f21-45b9-f1e4ea362df4
+* Version Independent ID: edb4336c-a7a3-cecd-eed9-075d22321e14
+* Content: [How to collect Windows Information Protection (WIP) audit event logs (Windows 10) - Windows security](https://docs.microsoft.com/en-us/windows/security/information-protection/windows-information-protection/collect-wip-audit-event-logs)
+* Content Source: [windows/security/information-protection/windows-information-protection/collect-wip-audit-event-logs.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/information-protection/windows-information-protection/collect-wip-audit-event-logs.md)
+* Product: **m365-security**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

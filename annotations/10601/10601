@@ -1,0 +1,28 @@
+title:	Web Portal for Remote Assistance no longer works with latest version of Quick Assist 2.0.6.0
+state:	OPEN
+author:	ckh-rcit
+labels:	client management, product-feedback
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10601
+--
+The following page requires an 8 digit code:
+https://remoteassistance.support.services.microsoft.com
+
+Since Quick Assist 2.0.6.0 codes are now 6 digits and alphanumeric.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: bfcd14cd-f887-660f-8a4c-465b3495e90e
+* Version Independent ID: 121eead7-eb87-f033-024a-f688866c58a0
+* Content: [Use Quick Assist to help users - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/quick-assist)
+* Content Source: [windows/client-management/quick-assist.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/quick-assist.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

@@ -1,0 +1,33 @@
+title:	Separate or together?
+state:	OPEN
+author:	BR77BE
+labels:	deployment, product-question
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10582
+--
+
+"Servicing stack updates must **ship separately** from the cumulative updates because they modify the component that installs Windows updates. The servicing stack is **released separately** because the servicing stack itself requires an update."
+
+Is this still true?
+
+Deploy Windows SSUs and LCUs **together** with one cumulative update
+
+https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploy-windows-ssus-and-lcus-together-with-one-cumulative-update/ba-p/1967887
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: b706f0af-d504-a8ca-7c38-b8bb9283bfad
+* Version Independent ID: 14f31acf-9f47-59a6-269f-62ab249fe560
+* Content: [Servicing stack updates - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/update/servicing-stack-updates)
+* Content Source: [windows/deployment/update/servicing-stack-updates.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/update/servicing-stack-updates.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

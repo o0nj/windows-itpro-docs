@@ -1,0 +1,15 @@
+title:	Add a GitHub PR Template
+state:	OPEN
+author:	aisgbnok
+labels:	doc-enhancement, Admin review
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10584
+--
+# Description
+
+I have noticed that sometimes PRs are opened and merged without the issue they address being closed. GitHub provides keywords to easily link and close issues once PRs are merged. One way to bring more awareness to this ability is with a PR template.
+
+On top of automatically closing and linking issues, [adding a GitHub PR Template](https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) would provide a better experience for PR authors and reviewers.

@@ -1,0 +1,26 @@
+title:	VPN stack no longer stores session credentials in Credential Manager.
+state:	OPEN
+author:	sivan-koren
+labels:	identity protection, writer-input-required, doc-bug
+comments:	7
+assignees:	e0i, MaratMussabekov
+projects:	
+milestone:	
+number:	10305
+--
+ As of Windows 10 build 19044.1469 or a previous, recent update, the VPN stack does not appear to store a *Session credential in Credential Manager upon establishing a VPN connection.
+
+This documentation should be updated to reflect the change, or if this change is not intentional, a link to any relevant patches/KB articles should be included.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 8b4b43c7-e56a-f762-846f-51257983d3ab
+* Version Independent ID: fa5d8ebb-02ea-cbc1-9b29-69bb710643e3
+* Content: [How to use Single Sign-On (SSO) over VPN and Wi-Fi connections (Windows 10 and Windows 11) - Windows security](https://docs.microsoft.com/en-us/windows/security/identity-protection/vpn/how-to-use-single-sign-on-sso-over-vpn-and-wi-fi-connections)
+* Content Source: [windows/security/identity-protection/vpn/how-to-use-single-sign-on-sso-over-vpn-and-wi-fi-connections.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/identity-protection/vpn/how-to-use-single-sign-on-sso-over-vpn-and-wi-fi-connections.md)
+* Product: **m365-security**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

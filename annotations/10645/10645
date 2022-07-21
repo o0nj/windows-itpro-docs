@@ -1,0 +1,26 @@
+title:	msp is 1 - what to do?
+state:	OPEN
+author:	javoger
+labels:	update, product-question
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10645
+--
+What should we do or what is the reason if the msp value is 1?
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: eeb8c41f-5e79-8310-3a2c-e2465d6aac96
+* Version Independent ID: f517bcb0-3833-08b3-f3f4-75a732b3c629
+* Content: [Update Compliance Configuration Script - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/update/update-compliance-configuration-script)
+* Content Source: [windows/deployment/update/update-compliance-configuration-script.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/update/update-compliance-configuration-script.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @mestew
+* Microsoft Alias: **mstewart**

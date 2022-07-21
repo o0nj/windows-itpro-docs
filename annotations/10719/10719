@@ -1,0 +1,26 @@
+title:	Identity Protection User Risk policy blocks MSAdmin Account
+state:	OPEN
+author:	ncheymol
+labels:	update
+comments:	0
+assignees:	tiaraquan
+projects:	
+milestone:	
+number:	10719
+--
+Hello, the MSAdmin account needs to be excluded from the Identity protection policies.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: c39d00e9-290e-06e6-2589-abf9ab85c8e0
+* Version Independent ID: c39d00e9-290e-06e6-2589-abf9ab85c8e0
+* Content: [Fix issues found by the Readiness assessment tool - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/windows-autopatch/prepare/windows-autopatch-fix-issues)
+* Content Source: [windows/deployment/windows-autopatch/prepare/windows-autopatch-fix-issues.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/windows-autopatch/prepare/windows-autopatch-fix-issues.md)
+* Product: **w11**
+* Technology: **windows**
+* GitHub Login: @tiaraquan
+* Microsoft Alias: **tiaraquan**

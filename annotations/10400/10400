@@ -1,0 +1,32 @@
+title:	0x8024402D code missing from docs reference
+state:	OPEN
+author:	gilm0079
+labels:	deployment, product-feedback, writer-input-required
+comments:	1
+assignees:	e0i, dougeby
+projects:	
+milestone:	
+number:	10400
+--
+Back Story: We have issues in our domain with computers most of the time not being able to check for windows updates. I've exhausted all troubleshooting steps I've found online. A while back we added the ability for Kaspersky's admin server to handle windows updates. It does a discovery process of scanning the PC. It seems like it first queries the target machine's windows update service then if that fails does its own discovery scan as a failback. Kaspersky also has issues getting results from the windows update service and the failback has worked for us most of the time.
+
+I tried to do a little more research on the errors today and Kaspersky's discovery kicked back this error:
+```
+System patch management: Windows Update Agent error 8024402d #1181 (-2145107923) COM error 0x8024402D (wcode: 0) ''<5xppaALmx6aaJAgipsaZj0>Error details: 1181/-2145107923 (COM error 0x8024402D (wcode: 0) ''), c:\a\b\a_6vlf7p9h\s\csadminkit\development2\nagent\vapm\wua_manager.cpp, 2317. 
+```
+
+That 0x8024 code looks like the one we also see in the Windows updates UI when it checks and fails. When I look on the MS code reference page though that specific code is missing. It lists 0x8024402[0-9][A-C], skips D & E, continues on to F. Can the page be updated as to what the 0x8024402D error is in relation to? Also, if someone at MS involved with part of windows is updating the documentation for this error, could you throw some suggestions my way as to the cause of the error? I wouldn't be surprised if a Group Policy setting is interfering, but I have no idea where to look. Thanks in advance.
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: f76d96ac-5343-20e2-9d99-9c1cea7ccc2e
+* Version Independent ID: a95c9b39-4a66-d726-4404-de5af60ac982
+* Content: [Windows Update error code list by component - Windows Deployment](https://docs.microsoft.com/en-us/windows/deployment/update/windows-update-error-reference)
+* Content Source: [windows/deployment/update/windows-update-error-reference.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/deployment/update/windows-update-error-reference.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @jaimeo
+* Microsoft Alias: **greglin**

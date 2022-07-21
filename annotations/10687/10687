@@ -1,0 +1,41 @@
+title:	Inability to use with Windows 10 Pro
+state:	OPEN
+author:	bdel83
+labels:	threat-protection
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10687
+--
+Hi,
+
+The documentation around WDAC doesn't appear to indicate that the Managed Installer feature only works with Windows 10 Enterprise, however when deploying or testing this does appear to be the case.
+
+Example:
+* MS 365 Business Premium tenant
+* WDAC policies deployed to Azure AD joined devices using Custom OMA-URI settings, with Managed Installer enabled
+* Powershell script enables Intune as a Managed installer
+* With Windows 10 Pro - this does not work, apps installed from Company Portal all fail
+* With Windows 10 Enterprise - this does work (same device, just a change to the Product key and reboot)
+
+Can the documentation please be updated to clearly indicate the requirement for Enterprise? Or if there is some extra configuration required by Pro, can this be highlighted?
+
+I guess the obvious question then becomes what other WDAC features require Enterprise?
+
+[Enter feedback here]
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 7d9a0607-b206-fab3-ef68-9de7c7e6a072
+* Version Independent ID: 9ca53978-51c8-d2e1-c6a4-4b0a19bac244
+* Content: [Allow apps deployed with a WDAC managed installer (Windows) - Windows security](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/configure-authorized-apps-deployed-with-a-managed-installer)
+* Content Source: [windows/security/threat-protection/windows-defender-application-control/configure-authorized-apps-deployed-with-a-managed-installer.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/threat-protection/windows-defender-application-control/configure-authorized-apps-deployed-with-a-managed-installer.md)
+* Product: **m365-security**
+* Technology: **windows-sec**
+* GitHub Login: @jsuther1974
+* Microsoft Alias: **dansimp**

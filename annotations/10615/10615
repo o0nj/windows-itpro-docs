@@ -1,0 +1,28 @@
+title:	use SID instead of Group name in examples
+state:	OPEN
+author:	JasonNMS
+labels:	client management, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10615
+--
+
+Examples should use the SID for Administrators <accessgroup desc = "S-1-5-32-544"> instead of the text 'Administrators'.
+This will ensure that for non-English language Windows OS, the profile will work. Otherwise it will throw an error.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 8b0c55a7-9aaa-d395-409e-59c2595c8e9e
+* Version Independent ID: cf8e5a71-a8fc-1d43-6eed-03d3f2490693
+* Content: [Policy CSP - LocalUsersAndGroups - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-localusersandgroups)
+* Content Source: [windows/client-management/mdm/policy-csp-localusersandgroups.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/policy-csp-localusersandgroups.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

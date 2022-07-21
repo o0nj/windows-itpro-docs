@@ -1,0 +1,31 @@
+title:	Missing Scenario of Complete System Freeze of Physical Computer
+state:	OPEN
+author:	dgfmb
+labels:	client management, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10709
+--
+
+The documentation only covers scenarios where a physical machine is frozen in a limited manner (i.e. it's still accessible or operable in some limited way).  This document needs to include the scenario where a physical machine is completely frozen (e.g. not accessible on the network and keyboard / mouse not responsive).
+
+Even if you want to cop out and say it's not possible through Microsoft technologies to troubleshoot this type of issue, it would be nice to have it documented.  But what I'm hoping for is at least mention of alternatives to memory dumps (e.g. use of perfmon, trace, driver verifier) to attempt to isolate the problem even if it is not as neat and easy to analyze as a memory dump.
+
+I've worked with several Microsoft Performance Engineers who seem to be limited in thinking to the options outlined in this KB for this scenario and it would be nice if Microsoft could expand their horizons.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: b7aab622-1bde-637a-8999-cac5f3f68ac4
+* Version Independent ID: 16af5e10-0748-ec6f-f539-2ee8563c3702
+* Content: [Advanced troubleshooting for Windows freezes - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/troubleshoot-windows-freeze)
+* Content Source: [windows/client-management/troubleshoot-windows-freeze.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/troubleshoot-windows-freeze.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @aczechowski
+* Microsoft Alias: **aaroncz**

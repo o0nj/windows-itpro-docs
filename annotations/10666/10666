@@ -1,0 +1,37 @@
+title:	Missing information about configuring per-profile proxy settings
+state:	OPEN
+author:	rovingclimber
+labels:	client management
+comments:	1
+assignees:	e0i
+projects:	
+milestone:	
+number:	10666
+--
+Hi!
+
+This page is referenced from the HoloLens 2 documentation (https://docs.microsoft.com/en-us/hololens/hololens-network) in regard to setting per-wifi-profile proxy settings:
+
+[WiFi CSP](https://docs.microsoft.com/en-us/windows/client-management/mdm/wifi-csp): per-profile Wi-Fi proxy
+
+However the mentions of proxy settings on this page don't give any useful information, just statements like:
+
+"Proxy Don't use. Using this configuration in Windows 10 client editions will result in failure."
+"Using Proxyis in Windows 10 client editions (Home, Pro, Enterprise, and Education) will result in failure."
+
+I believe this CSP is still in use / relevant to HoloLens / Windows Holographic, which seems to use per-connection proxy setting (at least it's available in the UI), but without the documentation it's impossible to use.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: ab0c33a6-9251-9737-3f75-04be41fe9716
+* Version Independent ID: e9806355-0616-cff1-e527-95d7c13ae06e
+* Content: [WiFi CSP - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/wifi-csp)
+* Content Source: [windows/client-management/mdm/wifi-csp.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/wifi-csp.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

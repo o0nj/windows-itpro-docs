@@ -1,0 +1,29 @@
+title:	Cannot found pKIDefaultCSPs in exported file.
+state:	OPEN
+author:	cliffzhu
+labels:	identity protection
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10707
+--
+
+Open the text file created by the command above.
+
+Delete the last line of the output from the file that reads CertUtil: -dsTemplate command completed successfully.
+Modify the line that reads pKIDefaultCSPs = "1,Microsoft Software Key Storage Provider" to pKIDefaultCSPs = "1,Microsoft Passport Key Storage Provider"
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 7e9cc344-d2c1-1f8b-232a-b2cccd8b32a3
+* Version Independent ID: eb87d132-cc0b-8ab2-4417-51e1bc719c14
+* Content: [Deploying Certificates to Key Trust Users to Enable RDP - Windows security](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-deployment-rdp-certs)
+* Content Source: [windows/security/identity-protection/hello-for-business/hello-deployment-rdp-certs.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/security/identity-protection/hello-for-business/hello-deployment-rdp-certs.md)
+* Product: **m365-security**
+* GitHub Login: @Gitprakhar13
+* Microsoft Alias: **prsriva**

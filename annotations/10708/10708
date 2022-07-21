@@ -1,0 +1,28 @@
+title:	Negative example is confusing
+state:	OPEN
+author:	D-Jeffrey
+labels:	client management, doc-enhancement
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10708
+--
+The example of: 
+_If they aren't defined by an ADMX. For example, Password policy - minimum password age._
+is confusing, as depending on how you read it, it implies that _Minimum Password Age_ **can not** be set via this option.
+
+The example/reference should be reworded.
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: becd9bd1-6396-3f4a-cc78-c9a06b781516
+* Version Independent ID: efeec2a0-08b0-d1fc-72c5-14c23fa11397
+* Content: [Policy CSP - ControlPolicyConflict - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-controlpolicyconflict)
+* Content Source: [windows/client-management/mdm/policy-csp-controlpolicyconflict.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/policy-csp-controlpolicyconflict.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

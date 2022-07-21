@@ -1,0 +1,28 @@
+title:	Disable Catch Up Scan setting incorrect
+state:	OPEN
+author:	dmcwee
+labels:	client management
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10690
+--
+The DisableCatchUpFullScan and DisableCatchUpQuickScan descriptions do not match up with the policy's actual implementation which is confusing.  In the description both state: "If you enable this setting, catch-up scans for scheduled full scans will be turned on." and "If you enable this setting, catch-up scans for scheduled quick scans will be turned on." If Enabled when you check result from the Get-MpPreferences you will see that the value shows as 'False'.  If disabled the result from Get-MpPreferences is 'True'.  While these are the right values, because Enable = 0 (false) and Disable = 1 (true), the descriptions and validation are very confusing and make understanding these policies difficult.
+
+Request adding clarification of the setting to so that it is easier to map this from the Management Surface -> CSP -> Endpoint result.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: 66b1ab2e-1964-5580-7c99-4bd4cd480075
+* Version Independent ID: f7b5da46-04cb-3501-65fa-870a3c6f09b8
+* Content: [Policy CSP - Defender - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-defender)
+* Content Source: [windows/client-management/mdm/policy-csp-defender.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/policy-csp-defender.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

@@ -1,0 +1,26 @@
+title:	Missing Data Type is Integer
+state:	OPEN
+author:	parlevjo2
+labels:	client management
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10663
+--
+On this page I am missing the Data Type for all the audits. I presume they are all Integer. That should be on this page.
+
+
+---
+#### Document Details
+
+⚠ *Do not edit this section. It is required for docs.microsoft.com ➟ GitHub issue linking.*
+
+* ID: dabca3f2-2b25-dc4d-9486-57ddfed187f8
+* Version Independent ID: 561d395b-ef2d-589f-7bb3-c72e6862ca53
+* Content: [Policy CSP - Audit - Windows Client Management](https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-audit)
+* Content Source: [windows/client-management/mdm/policy-csp-audit.md](https://github.com/MicrosoftDocs/windows-itpro-docs/blob/public/windows/client-management/mdm/policy-csp-audit.md)
+* Product: **w10**
+* Technology: **windows**
+* GitHub Login: @Dansimp
+* Microsoft Alias: **dansimp**

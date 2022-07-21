@@ -1,0 +1,28 @@
+title:	Defender Catch-Up Scan Tooltip and Docs are backwards and confusing.
+state:	OPEN
+author:	CMDRMgram
+labels:	client management
+comments:	0
+assignees:	e0i
+projects:	
+milestone:	
+number:	10553
+--
+### The tooltip for Defender Catch-Up settings are currently directly opposing the name of the setting.
+
+The policy name is "Disable Catch-Up Scans" however the tooltip and documentation suggest that the correct setting for "Catch-Up Scans" to be enabled, would be "Yes" which is directly opposing what the name of the policy is. 
+
+For example: 
+DisableCatchupFullScan = Yes (**according to docs, this means they are NOT disabled**)
+
+This also appears in the documentation listed here: https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-defender#defender-disablecatchupfullscan
+
+```
+This policy setting allows you to configure catch-up scans for scheduled full scans. A catch-up scan is a scan that is initiated because a regularly scheduled scan was missed. Usually these scheduled scans are missed because the computer was turned off at the scheduled time.
+
+If you enable this setting, catch-up scans for scheduled full scans will be turned on. If a computer is offline for two consecutive scheduled scans, a catch-up scan is started the next time someone signs in to the computer. If there's no scheduled scan configured, there will be no catch-up scan run.
+
+If you disable or don't configure this setting, catch-up scans for scheduled full scans will be turned off.
+```
+
+![image](https://user-images.githubusercontent.com/85346345/169449554-bc02238d-8ea1-425a-87d4-189fca63f142.png)
