@@ -1,8 +1,8 @@
 title:	Password Max Length Guidance is No Longer Sufficient
 state:	OPEN
 author:	DenkertM
-labels:	policy settings, threat-protection, doc-bug
-comments:	0
+labels:	policy settings, threat-protection, writer-input-required, doc-bug
+comments:	1
 assignees:	e0i, saif71
 projects:	
 milestone:	

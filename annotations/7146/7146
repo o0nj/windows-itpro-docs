@@ -1,8 +1,8 @@
 title:	Duplicate Entry?
-state:	OPEN
+state:	CLOSED
 author:	Kirtar22
-labels:	identity protection, Sign off, doc-bug
-comments:	1
+labels:	identity protection, doc-bug
+comments:	2
 assignees:	e0i, saif71, nicholasswhite
 projects:	
 milestone:	
